@@ -137,20 +137,18 @@ spider.Run(ctx)
 
 ## Examples
 
-See [examples directory](../examples/) for complete examples:
+See [examples directory](./examples/) for complete examples:
 
-- **simple** - Pure functional style
-- **spider** - Spider interface
-- **batch** - Batch operations
-- **http** - HTTP client
-- **config** - Configuration management
+- **[simple](./examples/simple/)** - Pure functional style (5 lines)
+- **[spider](./examples/spider/)** - Spider interface with stats
+- **[batch](./examples/batch/)** - Batch operations for performance
+- **[http](./examples/http/)** - HTTP client with retry
+- **[config](./examples/config/)** - Configuration management
 
 ## Links
 
-- [Examples](../examples/)
-- [Quick Start Guide](../examples/QUICKSTART.md)
-- [Crawlab Docs](https://docs.crawlab.cn/)
-- [GitHub](https://github.com/crawlab-team/crawlab)
+- [GitHub Repository](https://github.com/arschlochnop/cl-sdk-go)
+- [Crawlab Official](https://github.com/crawlab-team/crawlab)
 
 ## License
 

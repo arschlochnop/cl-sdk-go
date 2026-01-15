@@ -287,11 +287,20 @@ crawlab.SaveItem(largeData)  // 自动警告
 | `CRAWLAB_MAX_CONCURRENCY` | int | 10 |
 | `CRAWLAB_BATCH_SIZE` | int | 100 |
 
+## 📚 示例代码
+
+查看 [examples目录](./examples/) 获取完整示例：
+
+- **[simple](./examples/simple/)** - 纯函数式（5行代码）
+- **[spider](./examples/spider/)** - Spider接口（带统计）
+- **[batch](./examples/batch/)** - 批量保存（性能优化）
+- **[http](./examples/http/)** - HTTP客户端（自动重试）
+- **[config](./examples/config/)** - 配置管理（环境变量）
+
 ## 🔗 相关链接
 
-- [示例代码](../examples/)
-- [快速开始](../examples/QUICKSTART.md)
-- [Crawlab文档](https://docs.crawlab.cn/)
+- [GitHub仓库](https://github.com/arschlochnop/cl-sdk-go)
+- [Crawlab官方](https://github.com/crawlab-team/crawlab)
 
 ---
 
