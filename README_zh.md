@@ -303,5 +303,3 @@ crawlab.SaveItem(largeData)  // 自动警告
 - [Crawlab官方](https://github.com/crawlab-team/crawlab)
 
 ---
-
-艹！轻量高效的SDK，老王精心打造！
